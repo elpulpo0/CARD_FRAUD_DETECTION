@@ -11,9 +11,11 @@
 - mac/linux
 
     `source .venv/bin/activate.fish`
+
 - windows
 
     `.venv/Scripts/activate` or `.venv/Scripts/activate.ps1`
+    
 - bash(windows)
 
     `source .venv/Scripts/activate`
