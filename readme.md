@@ -2,6 +2,10 @@
 
 ## Installation
 
+**Clone this repository**
+
+`git clone https://github.com/elpulpo0/CARD_FRAUD_DETECTION`
+
 **Create a virtual environnement**
 
 `python -m venv .venv`
