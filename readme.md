@@ -26,6 +26,10 @@
 
 `pip install -r requirements.txt`
 
+**Download dataset into a folder /data**
+
+https://www.kaggle.com/code/laurajezequel/credit-card-fraud-detection/input
+
 ## Execution
 
 SOON
