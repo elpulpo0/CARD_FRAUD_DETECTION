@@ -19,3 +19,4 @@ __pycache__/
 
 # Données générées
 .env
+data/creditcard.csv
