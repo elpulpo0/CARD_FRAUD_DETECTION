@@ -36,4 +36,6 @@ https://www.kaggle.com/code/laurajezequel/credit-card-fraud-detection/input
 
 ## Execution
 
-SOON
+**Run the app**
+
+`streamlit run interface/app.py`
